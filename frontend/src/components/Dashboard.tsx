@@ -201,7 +201,7 @@ export default function Dashboard() {
 
     try {
       const res = await fetch(
-        "http://127.0.0.1:8000/api/satellites/tle?limit=50"
+        `${process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000"}/api/satellites/tle?limit=50`
       );
 
       if (!res.ok) {
