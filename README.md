@@ -172,3 +172,12 @@ PORT=8000
 ---
 
 *Data sourced from [CelesTrak](https://celestrak.org) — Dr. T.S. Kelso.*
+---
+
+## 🚀 Test AstraGuard AI
+
+Try the live deployed version of AstraGuard AI:
+
+👉 **[🌐 Test AstraGuard AI Live](https://astraguard-frontend.onrender.com)**
+
+---
